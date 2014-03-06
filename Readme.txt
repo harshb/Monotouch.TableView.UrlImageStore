@@ -16,7 +16,7 @@ when the image has finished downloading, the callback returns you the row and th
 
 Usage
 -----
-<code>
+
 
 public override UITableViewCell GetCell(UITableView tableView, NSIndexPath indexPath)
 {
@@ -45,4 +45,3 @@ public override UITableViewCell GetCell(UITableView tableView, NSIndexPath index
 
 }
 
-</code>
